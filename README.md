@@ -1,4 +1,4 @@
 # 7 proiecte
 
 ## Proiecte
-- (SOS)[sos] - SOS cu arduino
+- [SOS](sos) - SOS cu arduino
