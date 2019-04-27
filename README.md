@@ -1,1 +1,1 @@
-# 7_proiecte
+# 7 proiecte
