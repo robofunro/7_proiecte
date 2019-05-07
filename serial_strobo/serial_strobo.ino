@@ -1,17 +1,17 @@
 
-int redPin = 10;
-int greenPin = 9;
-int yellowPin = 8;
+#define RED_PIN  10
+#define GRREN_PIN  9
+#define YELLOW_PIN  8
 
-int sleep = 0;
+int sleep = 500;
 
 
 void setup() {
 
   Serial.begin(9600);
-  pinMode(redPin, OUTPUT);
-  pinMode(greenPin, OUTPUT);
-  pinMode(yellowPin, OUTPUT);
+  pinMode(RED_PIN, OUTPUT);
+  pinMode(GRREN_PIN, OUTPUT);
+  pinMode(YELLOW_PIN, OUTPUT);
 }
 void loop() {
 
@@ -25,13 +25,13 @@ void loop() {
 
   }
 
-  digitalWrite(redPin,HIGH);
-  digitalWrite(greenPin,HIGH);
-  digitalWrite(yellowPin,HIGH);
+  digitalWrite(RED_PIN,HIGH);
+  digitalWrite(GRREN_PIN,HIGH);
+  digitalWrite(YELLOW_PIN,HIGH);
   delay(sleep);
-  digitalWrite(redPin,LOW);
-  digitalWrite(greenPin,LOW);
-  digitalWrite(yellowPin,LOW);
+  digitalWrite(RED_PIN,LOW);
+  digitalWrite(GRREN_PIN,LOW);
+  digitalWrite(YELLOW_PIN,LOW);
   delay(sleep);
   
   
