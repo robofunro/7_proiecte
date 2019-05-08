@@ -10,4 +10,5 @@
 7. [Fade](fade) - Schimbarea luminozitatii unui led in mod dinamic
 8. [Serial](serial) - Schimbarea luminozitatii unui led cu ajutorul conexiunii seriale.
 9. [Serial Strobo](serial_strobo) - Schimbarea duratei de iluminare a mai multor leduri cu ajutorul conexiunii seriale.
+10. [Clock](clock) - Ceas cu leduri brick.
 
