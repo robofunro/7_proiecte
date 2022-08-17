@@ -1,5 +1,7 @@
 # 7 proiecte
 
+[Kit 7 proiecte](https://www.robofun.ro/cadouri/kit-pentru-incepatori-7-proiecte-simple-cu-arduino.html)
+
 ## Proiecte
 1. [Blink](blink) - LED + Arduino
 2. [Intesitate Variabila](intensitate_variabila) - Led cu intensitate variabila
@@ -11,4 +13,7 @@
 8. [Serial](serial) - Schimbarea luminozitatii unui led cu ajutorul conexiunii seriale.
 9. [Serial Strobo](serial_strobo) - Schimbarea duratei de iluminare a mai multor leduri cu ajutorul conexiunii seriale.
 10. [Clock](clock) - Ceas cu leduri brick.
+
+
+
 
